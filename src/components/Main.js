@@ -32,9 +32,9 @@ function Main() {
                             </div>
                         </div>
                         <div className="row justify-content-evenly ">
-                            <div className="column"><img src={columnImg1} width="100%" /></div>
-                            <div className="column"><img src={columnImg2} width="100%" /> </div>
-                            <div className="column"><img src={columnImg3} width="100%" /></div>
+                            <div className="column"><img src={columnImg1} alt="" width="100%" /></div>
+                            <div className="column"><img src={columnImg2} alt="" width="100%" /> </div>
+                            <div className="column"><img src={columnImg3} alt="" width="100%" /></div>
                         </div>
                     </div>
 
