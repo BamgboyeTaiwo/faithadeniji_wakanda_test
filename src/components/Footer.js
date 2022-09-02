@@ -8,7 +8,7 @@ function Footer() {
                 <div className="footer-top">
                     <div className="row">
                         <div className="col-lg-3 col-md-6 footer-contact">
-                            <img src={logo} />
+                            <img src={logo} alt="image"/>
                         </div>
 
                         <div className="col-lg-3 col-md-6 footer-links">
