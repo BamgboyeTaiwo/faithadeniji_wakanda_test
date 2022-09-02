@@ -14,10 +14,10 @@ function Footer() {
                         <div className="col-lg-3 col-md-6 footer-links">
                             <h4>Links</h4>
                             <ul>
-                                <li><i className="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-                                <li><i className="bx bx-chevron-right"></i> <a href="#">Our offers</a></li>
-                                <li><i className="bx bx-chevron-right"></i> <a href="#">Pricing</a></li>
-                                <li><i className="bx bx-chevron-right"></i> <a href="#">FAQs</a></li>
+                                <li><i className="bx bx-chevron-right"></i> <a href="/#">About us</a></li>
+                                <li><i className="bx bx-chevron-right"></i> <a href="/#">Our offers</a></li>
+                                <li><i className="bx bx-chevron-right"></i> <a href="/#">Pricing</a></li>
+                                <li><i className="bx bx-chevron-right"></i> <a href="/#">FAQs</a></li>
                             </ul>
                         </div>
 
