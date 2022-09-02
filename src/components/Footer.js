@@ -24,11 +24,11 @@ function Footer() {
                         <div className="col-lg-3 col-md-6 footer-links">
                             <h4>Contacts</h4>
                             <div className="social-links mt-3">
-                                <a href="#" className="twitter"><box-icon type="logo"  color="white" name="twitter"></box-icon></a>
-                                <a href="#" className="facebook"><box-icon type="logo"  color="white" name="facebook"></box-icon></a>
-                                <a href="#" className="instagram"><box-icon type="logo"  color="white" name="instagram"></box-icon></a>
-                                <a href="#" className="twitter"><box-icon color="white" name='current-location'></box-icon></a>
-                                <a href="#" className="linkedin"><box-icon type='logo' color='white' name='linkedin'></box-icon></a>
+                                <a href="/#" className="twitter"><box-icon type="logo"  color="white" name="twitter"></box-icon></a>
+                                <a href="/#" className="facebook"><box-icon type="logo"  color="white" name="facebook"></box-icon></a>
+                                <a href="/#" className="instagram"><box-icon type="logo"  color="white" name="instagram"></box-icon></a>
+                                <a href="/#" className="twitter"><box-icon color="white" name='current-location'></box-icon></a>
+                                <a href="/#" className="linkedin"><box-icon type='logo' color='white' name='linkedin'></box-icon></a>
                             </div>
                         </div>
 
