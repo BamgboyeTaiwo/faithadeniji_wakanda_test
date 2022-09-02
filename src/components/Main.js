@@ -1,5 +1,5 @@
 import React from "react";
-import { ReactDOM } from "react";
+// import { ReactDOM } from "react";
 import heroImg1 from "../images/Group 971.png";
 import columnImg1 from "../images/global-connection.png";
 import columnImg2 from "../images/sales.png";
@@ -24,7 +24,7 @@ function Main() {
                                 <h1>Build Great Relationships</h1>
                                 <h1>Save Time</h1>
                                 <div>
-                                    <a href="#" className="btn-get-started scrollto">Get Started now</a>
+                                    <a href="/#" className="btn-get-started scrollto">Get Started now</a>
                                 </div>
                             </div>
                             <div className="col-lg-6 order-1 order-lg-2 hero-img">
@@ -50,7 +50,7 @@ function Main() {
                                 <h1>Save Time</h1>
                                 <div>
 
-                                    <a href="#" className="btn-get-started scrollto">Get Started now</a>
+                                    <a href="/#" className="btn-get-started scrollto">Get Started now</a>
                                 </div>
                             </div>
                             <div className="col-lg-6 order-1 order-lg-2 hero-img">
@@ -74,7 +74,7 @@ function Main() {
 
                                 <h3 data-aos="fade-up">FREE EBOOK</h3>
 
-                                <a href="#" className="btn-get-started scrollto">Get it Now </a>
+                                <a href="/#" className="btn-get-started scrollto">Get it Now </a>
                             </div>
                         </div>
                     </div>
@@ -113,7 +113,7 @@ function Main() {
 
                                 <h3 data-aos="fade-up">FREE EBOOK</h3>
                                 <h1>7 Reasons You need To Turn Your business to a mobile Business</h1>
-                                <a href="#" className="btn-get-started scrollto">Get it Now </a>
+                                <a href="/#" className="btn-get-started scrollto">Get it Now </a>
                             </div>
                         </div>
                     </div>
